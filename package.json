@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "2.14.1",
+    "nuxt-i18n": "6.13.6"
+  }
+}
