@@ -2,6 +2,7 @@ const nuxtConfig = {
     modules: [
         ["nuxt-i18n", {
             differentDomains: true,
+            defaultLocale: "es",
             vuex: {
                 syncMessages: true,
                 syncLocale: true,
